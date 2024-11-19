@@ -2,15 +2,15 @@ package user.app.touristapp;
 
 public class TouristSpot
 {
-    private String Name;
-    private String Description;
-    private int ImageResId;
+    private String name;
+    private String description;
+    private int imageResId;
 
-    public TouristSpot(String Name, String Description, int ImageResId)
+    public TouristSpot(String name, String description, int imageResId)
     {
-        this.Name = name;
-        this.Description = description;
-        this.ImageResId = imageResId;
+        this.name = name;
+        this.description = description;
+        this.imageResId = imageResId;
     }
 
     public String getName()
@@ -23,8 +23,9 @@ public class TouristSpot
         return description;
     }
 
-    public int ImageResId()
+    public int getImageResId()
     {
-        return imagesResId;
+        return imageResId;
     }
 }
+
