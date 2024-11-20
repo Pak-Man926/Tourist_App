@@ -28,6 +28,9 @@ public class NightlifeFragment extends Fragment
         List<TouristSpot> spots = new ArrayList<>();
         spots.add(new TouristSpot("The Front Door Pub", "A lively bar with great drinks.", R.drawable.front_door));
         spots.add(new TouristSpot("Róisín Dubh", "Popular for live music events.", R.drawable.roisin_dubh));
+        spots.add(new TouristSpot("The Quays", "Medieval interior with live bands.", R.drawable.the_quays));
+        spots.add(new TouristSpot("Tig Cóilí", "Traditional Irish music and drinks.", R.drawable.tig_coili));
+        spots.add(new TouristSpot("The Blue Note", "Quirky bar with a local vibe.", R.drawable.blue_note));
         spots.add(new TouristSpot("King's Head", "Traditional Irish music and drinks.", R.drawable.kings_head));
 
 
