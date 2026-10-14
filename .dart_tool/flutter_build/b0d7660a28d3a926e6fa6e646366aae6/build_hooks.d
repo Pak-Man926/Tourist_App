@@ -1,0 +1,1 @@
+ /home/pak_man/Desktop/Tourist_App/.dart_tool/flutter_build/b0d7660a28d3a926e6fa6e646366aae6/build_hooks_result.json:  /home/pak_man/Desktop/Tourist_App/.dart_tool/package_config.json /home/pak_man/Desktop/Tourist_App/pubspec.yaml /home/pak_man/flutter/bin/cache/dart-sdk/version
