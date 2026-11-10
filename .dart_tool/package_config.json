@@ -51,7 +51,7 @@
     },
     {
       "name": "code_assets",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/code_assets-1.2.1",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/code_assets-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -63,7 +63,7 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/crypto-3.0.7",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/crypto-3.0.8",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -105,7 +105,7 @@
     },
     {
       "name": "flutter_cache_manager",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/flutter_cache_manager-3.4.5",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/flutter_cache_manager-3.5.0",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -147,7 +147,7 @@
     },
     {
       "name": "hooks",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/hooks-2.0.2",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/hooks-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -165,7 +165,7 @@
     },
     {
       "name": "jni",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/jni-1.1.0",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/jni-1.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -231,19 +231,19 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/meta-1.18.3",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/meta-1.19.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "objective_c",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/objective_c-9.5.0",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/objective_c-9.6.3",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
     {
       "name": "octo_image",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/octo_image-2.1.2",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/octo_image-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -315,7 +315,7 @@
     },
     {
       "name": "record_use",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/record_use-0.6.0",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/record_use-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -339,15 +339,15 @@
     },
     {
       "name": "shared_preferences_android",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.28",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/shared_preferences_android-2.5.4",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
     {
       "name": "shared_preferences_foundation",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.7",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.6.1",
       "packageUri": "lib/",
-      "languageVersion": "3.10"
+      "languageVersion": "3.13"
     },
     {
       "name": "shared_preferences_linux",
@@ -387,31 +387,31 @@
     },
     {
       "name": "sqflite",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite-2.4.4+1",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite-2.4.6",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
     {
       "name": "sqflite_android",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite_android-2.4.4",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite_android-2.4.6",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
     {
       "name": "sqflite_common",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite_common-2.5.13+1",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite_common-2.5.17",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
     {
       "name": "sqflite_darwin",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.4",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.6",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
     {
       "name": "sqflite_platform_interface",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite_platform_interface-2.4.2",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/sqflite_platform_interface-2.4.4",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
@@ -441,7 +441,7 @@
     },
     {
       "name": "synchronized",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/synchronized-3.4.2",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/synchronized-3.6.1+1",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
@@ -519,21 +519,21 @@
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/vector_math-2.4.0",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/vector_math-2.4.4",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/vm_service-15.3.0",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/vm_service-15.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "web",
-      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/web-1.1.1",
+      "rootUri": "file:///home/pak_man/.pub-cache/hosted/pub.dev/web-1.1.2",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.13"
     },
     {
       "name": "xdg_directories",
@@ -555,8 +555,8 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.13.5",
+  "generatorVersion": "3.13.7",
   "flutterRoot": "file:///home/pak_man/flutter",
-  "flutterVersion": "3.47.6",
+  "flutterVersion": "3.47.9",
   "pubCache": "file:///home/pak_man/.pub-cache"
 }
